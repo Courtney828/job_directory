@@ -1,0 +1,7 @@
+{
+  "name": "Job_Directory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
